@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for HarperDB projects using TypeScript](https://blog.stackademic.com/best-practices-for-harperdb-projects-using-typescript-758f63d84885?source=rss-84c42a22cef7------2)
+- [Simple Multi-Node Data Replication with HarperDB Pub/Sub](https://faun.pub/simple-multi-node-data-replication-with-harperdb-pub-sub-1ed45cdedc30?source=rss-84c42a22cef7------2)
+- [Running HarperDB in Kubernetes in one command](https://faun.pub/running-harperdb-in-kubernetes-in-one-command-8c87e2788eb6?source=rss-84c42a22cef7------2)
+- [Using HarperDB with Kubernetes](https://faun.pub/using-harperdb-with-kubernetes-e796ea606e99?source=rss-84c42a22cef7------2)
+- [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
