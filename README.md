@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project regarding machine learning**
 
-- 👨‍💻 All of my projects are available at [https://gustavonascimento98.github.io/portfolio_projetos/](https://gustavonascimento98.github.io/portfolio_projetos/)
+- 👨‍💻 All of my projects are available at [https://gustavonascimento98.github.io/portfolio-projetos/](https://gustavonascimento98.github.io/portfolio-projetos/)
 
 - 📝 I regularly write articles on [https://medium.com/@gustavo_nascimento](https://medium.com/@gustavo_nascimento)
 
